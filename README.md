@@ -24,18 +24,6 @@ Key features include event scheduling, task prioritization, and personalized sch
 - **Website**: https://bt3103-722a0.web.app/
 - **Report**: https://docs.google.com/document/d/1xK_4XIY0Fws9NkCs9KkWA-_Yhom8GGPFF10E6FEDpN0/edit?tab=t.0#heading=h.u1ykbvjfukcn
 
-## Installation & Setup
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/schedulesmart.git
-   cd schedulesmart
-2. npm install
-   
-   npm run dev
-
 ## Team Members
 - TAN SHANNON
 - ISAAC NG
